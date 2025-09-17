@@ -1,5 +1,3 @@
-# Adidas-Sales-Analysis
-# Adidas Sales Analysis — README
 
 # Adidas Sales Analysis Dashboard
 
